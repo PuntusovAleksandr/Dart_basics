@@ -1,6 +1,9 @@
-import 'package:carousel_slider/carousel_slider.dart';
+// Flutter imports:
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+
+// Package imports:
+import 'package:carousel_slider/carousel_slider.dart';
 
 final List<String> imgList = [
   'https://images.unsplash.com/photo-1520342868574-5fa3804e551c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6ff92caffcdd63681a35134a6770ed3b&auto=format&fit=crop&w=1951&q=80',
@@ -113,6 +116,14 @@ class _MyHomePageState extends State<MyHomePage> {
                       ))
                   .toList(),
             ),
+
+        // Задание 3.
+            // Подключите любым способом ( git / pub.dev ) пакет для
+            // автоматической сортировки импортов
+            // https://pub.dev/packages/import_sorter. Добавьте его в dev_
+            // dependencies проекта, чтобы код этого пакета не попал в
+            // production-сборку: этот функционал нужен исключительно во время
+            // разработки. Отсортируйте импорты с помощью этой библиотеки.
 
           ],
         ),
