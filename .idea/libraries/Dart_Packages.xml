@@ -16,6 +16,13 @@
             </list>
           </value>
         </entry>
+        <entry key="carousel_slider">
+          <value>
+            <list>
+              <option value="$USER_HOME$/Flutter/flutter_windows_2.8.1-stable/flutter/.pub-cache/git/flutter_carousel_slider-7592e701aedb33e5f44d2cf63f4ee72272308d87/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="characters">
           <value>
             <list>
@@ -250,6 +257,7 @@
       </option>
     </properties>
     <CLASSES>
+      <root url="file://$USER_HOME$/Flutter/flutter_windows_2.8.1-stable/flutter/.pub-cache/git/flutter_carousel_slider-7592e701aedb33e5f44d2cf63f4ee72272308d87/lib" />
       <root url="file://$USER_HOME$/Flutter/flutter_windows_2.8.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.2/lib" />
       <root url="file://$USER_HOME$/Flutter/flutter_windows_2.8.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0/lib" />
       <root url="file://$USER_HOME$/Flutter/flutter_windows_2.8.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.2.0/lib" />
